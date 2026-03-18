@@ -1,0 +1,6 @@
+# Ignorar o banco de dados local
+banco_vendas_final.json
+
+# Ignorar pastas de cache do Python
+__pycache__/
+*.pyc
