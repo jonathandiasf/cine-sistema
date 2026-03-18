@@ -26,4 +26,4 @@ O sistema segue o padrão **Boundary-Control-Entity**, garantindo uma separaçã
 1. Certifique-se de ter o Python 3.10 ou superior instalado.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/cine-sistema.git](https://github.com/seu-usuario/cine-sistema.git)
+   git clone [https://github.com/jonathandiasf/cine-sistema.git](https://github.com/jonathandiasf/cine-sistema.git)
